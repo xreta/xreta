@@ -18,6 +18,7 @@ AWS Cloud Virtual Internship Trainee at AWS:
 
 • Python.
 • Data Science. 
+• BackEnd
 
 💬 Reach me by email or LinkedIn! jamshedshadan@gmail.com | www.linkedin.com/in/shadan-jamshed-a7055a1a1
 
